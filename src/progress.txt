@@ -1,7 +1,0 @@
-24.10{
-finished navbar 
-need fo fix router 
-finish info section!
-https://www.youtube.com/watch?v=iP_HqoCuRI0&t=14s : time in vid 1:06:00
-
-}
